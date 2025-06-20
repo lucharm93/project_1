@@ -45,7 +45,10 @@ li a{
     display: flex;
     flex-direction: row;
     align-items: stretch;
-    justify-content: space-between;    
+    justify-content: space-between;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    padding: 15px;    
     
 }
 
@@ -141,6 +144,8 @@ p{
     align-items: stretch;
     flex-direction: column; 
     justify-content: space-between;
+    border-radius: 18px;
+    padding: 18px;
 }
 
 .fifth_part_box{
